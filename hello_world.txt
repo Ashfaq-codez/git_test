@@ -1,0 +1,7 @@
+1.create any file : touch abc.txt
+2.add the file : git add abc.txt
+3.commit the file : git commit -m "any description"
+4.push to github: git push origin main
+
+git status 
+git log
